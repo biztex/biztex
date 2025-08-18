@@ -98,6 +98,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/biztex/biztex/output/snake.svg" alt="Snake animation" />
-
 ###
